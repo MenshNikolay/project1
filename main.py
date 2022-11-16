@@ -1,4 +1,4 @@
-#Step 5
+
 
 import random
 from hangman_words import word_list
